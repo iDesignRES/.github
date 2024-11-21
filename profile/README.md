@@ -1,12 +1,3 @@
-## Hi there 👋
+## iDesignRes
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+IDesignRes is an European Union-funded research initiative aimed at advancing the integration of renewable energy across Europe. The project brings together 22 partners from 11 countries, including Norway, to develop open-source tools that assist public authorities and network operators in planning and optimizing the adoption of low and zero-emission energy sources at regional, national, and European levels.
