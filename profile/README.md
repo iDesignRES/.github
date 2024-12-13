@@ -16,8 +16,8 @@ The detailed system models are derived for individual energy carriers, *e.g.*, e
 These models are available for detailed analyses of these systems.
 
 EDF models - link\
-Pomato - link\
-NTNU NG model - link
+Pomato - https://github.com/iDesignRES/POMATWO \
+NTNU NG model - https://github.com/iDesignRES/GGM
 
 ### Energy consumer models
 
