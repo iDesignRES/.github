@@ -24,9 +24,9 @@ NTNU NG model - link
 Detailed models for the energy consumers of a given area/industry type are developed.
 The modules can be used stand-alone or provide data to be used together with the [component models assembly tool](#component-models-assembly-tool).
 
-Deusto - link\
-Technalia buildings - link\
-Transport - link
+Deusto - https://github.com/iDesignRES/IDR-IIsim\
+Technalia buildings - https://github.com/iDesignRES/Tecnalia\
+Transport - https://github.com/iDesignRES/transcomp
 
 ### Multi-parameter component models for direct integration
 
