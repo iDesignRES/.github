@@ -15,7 +15,7 @@ The represented components span from primary energy sources, energy conversion a
 The detailed system models are derived for individual energy carriers, *e.g.*, electricity and natural gas.
 These models are available for detailed analyses of these systems.
 
-EDF models - link\
+EDF models - https://github.com/iDesignRES/Plan4Res-SMS \
 Pomato - https://github.com/iDesignRES/POMATWO \
 NTNU NG model - https://github.com/iDesignRES/GGM
 
