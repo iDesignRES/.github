@@ -41,6 +41,7 @@ The [component models assembly tool](#component-models-assembly-tool) will sampl
 
 Nuclear EDF - tba \
 Solar - https://git.code.tecnalia.com/swt-tecu/idesignres.git \
+Wind - https://github.com/EnergyModelsX/EnergyModelsRenewableProducers.jl/tree/dev_windpower \ 
 CHP - tba
 
 ## Component models assembly tool
