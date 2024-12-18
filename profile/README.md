@@ -39,7 +39,7 @@ A detailed description with links to the individual models can be found in the r
 The stand-alone component models have detailed operational analysis capabilities.
 The [component models assembly tool](#component-models-assembly-tool) will sample data from the component model outputs and use in the assessment of the integrated, multi-carrier energy system operations.
 
-Nuclear EDF - Part of SMS++ / Plan4Res \
+Nuclear EDF - Part of SMS++ / Plan4Res: https://github.com/iDesignRES/Plan4Res-SMS \
 Solar - https://git.code.tecnalia.com/swt-tecu/idesignres.git \
 Wind - https://github.com/EnergyModelsX/EnergyModelsRenewableProducers.jl/tree/dev_windpower \ 
 CHP - tba
