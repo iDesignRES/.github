@@ -41,8 +41,8 @@ The [component models assembly tool](#component-models-assembly-tool) will sampl
 
 Nuclear EDF - Part of SMS++ / Plan4Res: https://github.com/iDesignRES/Plan4Res-SMS \
 Solar - https://git.code.tecnalia.com/swt-tecu/idesignres.git \
-Wind - https://github.com/EnergyModelsX/EnergyModelsRenewableProducers.jl/tree/dev_windpower \ 
-CHP - EnergyModelsHeat.jl/submodels/bioCHP_plant
+Wind - https://github.com/EnergyModelsX/EnergyModelsRenewableProducers.jl/tree/dev_windpower \
+CHP - https://github.com/EnergyModelsX/EnergyModelsHeat.jl/tree/main/submodels/bioCHP_plant
 
 ## Component models assembly tool
 
