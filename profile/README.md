@@ -15,18 +15,18 @@ The represented components span from primary energy sources, energy conversion a
 The detailed system models are derived for individual energy carriers, *e.g.*, electricity and natural gas.
 These models are available for detailed analyses of these systems.
 
-EDF models - https://github.com/iDesignRES/Plan4Res-SMS \
-POMATWO - https://github.com/iDesignRES/POMATWO \
-MGET/GGM - https://github.com/iDesignRES/GGM
+EDF models - <https://github.com/iDesignRES/Plan4Res-SMS> \
+POMATWO - <https://github.com/iDesignRES/POMATWO> \
+MGET/GGM - <https://github.com/iDesignRES/GGM>
 
 ### Energy consumer models
 
 Detailed models for the energy consumers of a given area/industry type are developed.
 The modules can be used stand-alone or provide data to be used together with the [component models assembly tool](#component-models-assembly-tool).
 
-Deusto - https://github.com/iDesignRES/IDR-IIsim \
-Building mdoels - https://github.com/iDesignRES/Tecnalia_Building-Stock-Energy-Model \
-Transport - https://github.com/iDesignRES/transcomp
+Deusto - <https://github.com/iDesignRES/IDR-IIsim> \
+Building models - <https://github.com/iDesignRES/Tecnalia_Building-Stock-Energy-Model> \
+Transport - <https://github.com/iDesignRES/transcomp>
 
 ### Multi-parameter component models for direct integration
 
@@ -39,10 +39,10 @@ A detailed description with links to the individual models can be found in the r
 The stand-alone component models have detailed operational analysis capabilities.
 The [component models assembly tool](#component-models-assembly-tool) will sample data from the component model outputs and use in the assessment of the integrated, multi-carrier energy system operations.
 
-Nuclear EDF - Part of SMS++ / Plan4Res: https://github.com/iDesignRES/Plan4Res-SMS \
-Solar - https://github.com/iDesignRES/Tecnalia_Solar-Energy-Model \
-Wind - https://github.com/EnergyModelsX/EnergyModelsRenewableProducers.jl/tree/dev_windpower \
-CHP - https://github.com/iDesignRES/CHP_modelling
+Nuclear EDF - Part of SMS++ / Plan4Res: <https://github.com/iDesignRES/Plan4Res-SMS> \
+Solar - <https://github.com/iDesignRES/Tecnalia_Solar-Energy-Model> \
+Wind - <https://github.com/EnergyModelsX/EnergyModelsRenewableProducers.jl/tree/dev_windpower> \
+CHP - <https://github.com/iDesignRES/CHP_modelling>
 
 ## Component models assembly tool
 
